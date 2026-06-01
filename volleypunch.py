@@ -28,12 +28,11 @@ if TYPE_CHECKING:
 
 
 plugman = dict(
-    plugin_name="sample_plugin",
-    description="A test plugin for demonstration purposes blah blah.",
-    external_url="https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    plugin_name="VolleyPunch",
+    description="Have fun with your friends in this new volley game !",
+    external_url="https://github.com/Scriptz1/Learn.py-Installer/blob/main/volleypunch.py",
     authors=[
-        {"name": "Loup", "email": "loupg450@gmail.com", "discord": "loupgarou_"},
-        {"name": "brostos", "email": "", "discord": "brostos"}
+        {"name": "Learn.py", "email": "phillipians36@gmail.com", "discord": "Learning .py"},
     ],
     version="1.0.0",
 )
